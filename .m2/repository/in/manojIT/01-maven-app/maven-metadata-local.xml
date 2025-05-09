@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>in.manojIT</groupId>
+  <artifactId>01-maven-app</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250509062321</lastUpdated>
+  </versioning>
+</metadata>
